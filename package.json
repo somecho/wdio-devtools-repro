@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@wdio/devtools-service": "^8.29.1",
+    "webdriverio": "^8.29.1"
+  }
+}
